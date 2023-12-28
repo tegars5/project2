@@ -6,7 +6,6 @@ on:
       - main
 jobs:
   Build-and-push-docker-image:
-  Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
